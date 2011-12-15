@@ -1,0 +1,12 @@
+# Bayesian Spam Filter  
+
+We implement a [Bayesian spam filter](http://en.wikipedia.org/wiki/Bayesian_spam_filtering) in Python.
+
+We first implemented the vanilla Bayesian filter, training on the data provided, and then extended it in various directions.
+
+# Extensions
+
+* Stemming using Porter's algorithm
+* Cosine normalisation of feature weights
+* Feature selection using WEKA.
+
